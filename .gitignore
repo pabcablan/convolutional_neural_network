@@ -1,1 +1,14 @@
+## Virtual Enviroment ##
 nn_venv/
+
+## Dataset ##
+eye-diseases-classification/
+
+## WanDb ##
+wandb/
+
+## Pycharm ##
+.idea/
+
+## VsCode##
+.vscode/
